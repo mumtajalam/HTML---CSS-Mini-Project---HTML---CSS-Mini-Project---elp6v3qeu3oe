@@ -155,7 +155,7 @@ header .container{
 /* ----work--- */
 
 #work{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../images/work-pic.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../image/work-pic.jpg') center/cover no-repeat fixed;
     color: var(--light-color);
 }
 #work .title h2, #work h3{
@@ -224,7 +224,7 @@ header .container{
 }
 
 #insta{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../css/image/insta-pic.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../image/insta-pic.jpg') center/cover no-repeat fixed;
     min-height: 65vh;
 }
 #insta .title h2{
